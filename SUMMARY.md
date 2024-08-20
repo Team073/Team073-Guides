@@ -7,6 +7,9 @@
 ## 📖 Pre-Setup
 
 * [ANTIVIRUS SETTINGS](pre-setup/readme-1.md)
+* [VALORANT CUSTOM ERROR FIXES](pre-setup/valorant-custom-error-fixes.md)
+* [DAYZ CUSTOM ERROR FIXES](pre-setup/dayz-custom-error-fixes.md)
+* [APEX CUSTOM ERROR FIXES](pre-setup/apex-custom-error-fixes.md)
 
 ## 💉 CHAIR PRODUCTS
 
@@ -29,3 +32,5 @@
 
 * [PERMANENT VAL SPOOFER](spoofer-products/permanent-val-spoofer.md)
 * [TEMP SPOOFER EAC/BE](spoofer-products/temp-spoofer-eac-be.md)
+* [TPM BYPASS](spoofer-products/tpm-bypass.md)
+* [VAN:RESTRICTION BYPASS](spoofer-products/van-restriction-bypass.md)
