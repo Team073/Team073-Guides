@@ -13,4 +13,3 @@
 
 3. Uninstall any 3rd party Antivirus (Norton, Total AV, Aura, BitDefender, McAfee, etc )
 
-testing
