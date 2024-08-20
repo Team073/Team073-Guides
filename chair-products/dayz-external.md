@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/1680d8f8846a0b9f65edea64957a1880.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # DAYZ EXTERNAL
 
 Make sure no third party anti-viruses are installed, Vanguard/FaceIT is uninstalled, and that you have disabled windows defender via dcontrol
