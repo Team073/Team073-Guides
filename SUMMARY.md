@@ -6,7 +6,7 @@
 
 ## 📖 Pre-Setup
 
-* [ANTIVURS SETTINGS](<README (1).md>)
+* [ANTIVURS SETTINGS](pre-setup/readme-1.md)
 
 ## 💉 CHAIR PRODUCTS
 
