@@ -1,8 +1,12 @@
 # Table of contents
 
+## 📌 GETTING STARTED
+
+* [❓ FAQ](README.md)
+
 ## 📖 Pre-Setup
 
-* [ANTIVURS SETTINGS](README.md)
+* [ANTIVURS SETTINGS](<README (1).md>)
 
 ## 💉 CHAIR PRODUCTS
 
@@ -17,7 +21,3 @@
 
 * [PERMANENT VAL SPOOFER](spoofer-products/permanent-val-spoofer.md)
 * [TEMP SPOOFER EAC/BE](spoofer-products/temp-spoofer-eac-be.md)
-
-## 📌 GETTING STARTED
-
-* [📌 FAQ](getting-started/faq.md)
