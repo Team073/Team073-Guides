@@ -6,7 +6,7 @@
 
 ## 📖 Pre-Setup
 
-* [ANTIVURS SETTINGS](pre-setup/readme-1.md)
+* [ANTIVIRUS SETTINGS](pre-setup/readme-1.md)
 
 ## 💉 CHAIR PRODUCTS
 
@@ -17,7 +17,8 @@
 * [VALORANT EXTERNAL](chair-products/valorant-external.md)
 * [VALORANT INTERNAL](chair-products/valorant-internal.md)
 * [CHEAT + BLOCKER ANTIDOTE](chair-products/cheat-+-blocker-antidote.md)
-* [CHEAT + BLOCKER GHOST](chair-products/cheat-+-blocker-ghost.md)
+* [CHEAT + BLOCKER GHOST](chair-products/cheat-+-blocker-ghost/README.md)
+  * [subpage example](chair-products/cheat-+-blocker-ghost/subpage-example.md)
 * [CHEAT + BLOCKER SILENT](chair-products/cheat-+-blocker-silent.md)
 * [CHEAT + BLOCKER EXTERNAL](chair-products/cheat-+-blocker-external.md)
 * [BUBBLE ESP EXTERNAL](chair-products/bubble-esp-external.md)
