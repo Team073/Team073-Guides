@@ -16,6 +16,13 @@
 * [RUST EXTERNAL](chair-products/rust-external.md)
 * [VALORANT EXTERNAL](chair-products/valorant-external.md)
 * [VALORANT INTERNAL](chair-products/valorant-internal.md)
+* [CHEAT + BLOCKER ANTIDOTE](chair-products/cheat-+-blocker-antidote.md)
+* [CHEAT + BLOCKER GHOST](chair-products/cheat-+-blocker-ghost.md)
+* [CHEAT + BLOCKER SILENT](chair-products/cheat-+-blocker-silent.md)
+* [CHEAT + BLOCKER EXTERNAL](chair-products/cheat-+-blocker-external.md)
+* [BUBBLE ESP EXTERNAL](chair-products/bubble-esp-external.md)
+* [ESCAPE FROM TARKOV ESP](chair-products/escape-from-tarkov-esp.md)
+* [R6 KLAR](chair-products/r6-klar.md)
 
 ## ⚙️ SPOOFER PRODUCTS
 
