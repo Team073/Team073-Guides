@@ -17,13 +17,17 @@ layout:
     visible: true
 ---
 
-# TPM BYPASS
+# 🔓 TPM BYPASS
 
 ### How to Bypass <a href="#how-to-bypass" id="how-to-bypass"></a>
+
+{% hint style="warning" %}
+
 
 **This method will bypass the following errors**
 
 * **TPM 2.0**
+{% endhint %}
 
 For the bypass to work, you must enable the following in the bios
 
@@ -32,7 +36,11 @@ For the bypass to work, you must enable the following in the bios
 
 After enabling all modules in the BIOS, open the spoofer, log in, and select "TPM Bypass". Then click "Start Bypass". Your mouse/keyboard will "freeze", and once the bypass is complete, they will work normally again, and you will be free to play.
 
+
+
+{% hint style="success" %}
 After you do the bypass for the first time, you only need to bypass again if you have turned off or restarted the computer.
+{% endhint %}
 
 #### Checking TPM <a href="#checking-tpm" id="checking-tpm"></a>
 

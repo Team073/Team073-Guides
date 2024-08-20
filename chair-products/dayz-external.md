@@ -1,4 +1,5 @@
 ---
+icon: sunrise
 cover: ../.gitbook/assets/1680d8f8846a0b9f65edea64957a1880.png
 coverY: 0
 layout:
@@ -28,3 +29,9 @@ Make sure no third party anti-viruses are installed, Vanguard/FaceIT is uninstal
 3. Open overwolf and just let it run in the background, after that open the loader that you got in your email spam folder, register with your key, loader will close, reopen it, then login with your credentials.
 4. Press Load Protection to load the driver (If it says Failed to load protection, it is due to you being on windows 11 which these products do NOT support. Downgrade your windows.), after that press on load \<your game>, loader will ask you to open game press OK on the popup.
 5. Once in main menu press END Key to inject, and the menu key will be INSERT.
+
+
+
+{% content-ref url="../pre-setup/common-error-fixes/dayz-custom-error-fixes.md" %}
+[dayz-custom-error-fixes.md](../pre-setup/common-error-fixes/dayz-custom-error-fixes.md)
+{% endcontent-ref %}

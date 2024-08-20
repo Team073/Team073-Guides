@@ -1,5 +1,6 @@
 ---
-cover: ../.gitbook/assets/1680d8f8846a0b9f65edea64957a1880.png
+icon: circle-exclamation
+cover: ../../.gitbook/assets/1680d8f8846a0b9f65edea64957a1880.png
 coverY: 0
 layout:
   cover:
@@ -19,7 +20,7 @@ layout:
 
 # VALORANT CUSTOM ERROR FIXES
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Sandbox 0xA000043F
 

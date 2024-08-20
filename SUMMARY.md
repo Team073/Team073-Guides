@@ -7,9 +7,10 @@
 ## 📖 Pre-Setup
 
 * [ANTIVIRUS SETTINGS](pre-setup/readme-1.md)
-* [VALORANT CUSTOM ERROR FIXES](pre-setup/valorant-custom-error-fixes.md)
-* [DAYZ CUSTOM ERROR FIXES](pre-setup/dayz-custom-error-fixes.md)
-* [APEX CUSTOM ERROR FIXES](pre-setup/apex-custom-error-fixes.md)
+* [COMMON ERROR FIXES](pre-setup/common-error-fixes/README.md)
+  * [APEX CUSTOM ERROR FIXES](pre-setup/common-error-fixes/apex-custom-error-fixes.md)
+  * [VALORANT CUSTOM ERROR FIXES](pre-setup/common-error-fixes/valorant-custom-error-fixes.md)
+  * [DAYZ CUSTOM ERROR FIXES](pre-setup/common-error-fixes/dayz-custom-error-fixes.md)
 
 ## 💉 CHAIR PRODUCTS
 
@@ -22,9 +23,9 @@
 * [VALORANT PRODUCTS](chair-products/valorant-products/README.md)
   * [VALORANT EXTERNAL](chair-products/valorant-products/valorant-external.md)
   * [VALORANT INTERNAL](chair-products/valorant-products/valorant-internal.md)
-  * [PERMANENT VAL SPOOFER](chair-products/valorant-products/permanent-val-spoofer.md)
-  * [TPM BYPASS](chair-products/valorant-products/tpm-bypass.md)
-  * [VAN:RESTRICTION BYPASS](chair-products/valorant-products/van-restriction-bypass.md)
+  * [🛡️ PERMANENT VAL SPOOFER](chair-products/valorant-products/permanent-val-spoofer.md)
+  * [🔓 TPM BYPASS](chair-products/valorant-products/tpm-bypass.md)
+  * [🚫 VAN:RESTRICTION BYPASS](chair-products/valorant-products/van-restriction-bypass.md)
 * [APEX EXTERNAL](chair-products/apex-external.md)
 * [R6 KLAR](chair-products/r6-klar.md)
 * [RUST EXTERNAL](chair-products/rust-external.md)

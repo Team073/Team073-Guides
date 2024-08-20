@@ -1,4 +1,5 @@
 ---
+icon: hands-holding-diamond
 cover: ../../.gitbook/assets/1680d8f8846a0b9f65edea64957a1880.png
 coverY: 0
 layout:
@@ -21,17 +22,23 @@ layout:
 
 <figure><img src="../../.gitbook/assets/valorant gif.gif" alt=""><figcaption></figcaption></figure>
 
-**How to Inject**
+## **How to Inject** <a href="#how-to-inject" id="how-to-inject"></a>
 
+{% hint style="info" %}
 **Please**, before injecting, always restart your computer, as the injection process becomes safer. _**(Optional)**_
 
 **Remember** that when injecting, you cannot have anything related to Valorant open, such as the Riot Client or the game!
 
 **Make** sure there is no other anti-cheat running on your computer, such as Faceit. If there is, uninstall it.
+{% endhint %}
+
+
 
 As soon as you receive your key after your purchase you need to register then select option sign up to register, if you already have an account then log in, after you have logged into your account select the cheat you want which in this case is Valorant Internal.
 
+{% hint style="warning" %}
 Remember that the game must remain closed until the loader asks to open the game !
+{% endhint %}
 
 As soon as the game is selected your mouse/keyboard will stop working and after the loader completes the necessary steps your mouse/keyboard will start working normally again, after that open the new loader that was downloaded and log in again.
 
@@ -92,3 +99,9 @@ This function causes the trigger to only fire the first time an enemy pass throu
 **-> Trigger Delay**
 
 The delay is the response time for the trigger to shoot once your enemy passes through your crosshair. (Remember, the trigger responds in milliseconds.)
+
+
+
+{% content-ref url="../../pre-setup/common-error-fixes/valorant-custom-error-fixes.md" %}
+[valorant-custom-error-fixes.md](../../pre-setup/common-error-fixes/valorant-custom-error-fixes.md)
+{% endcontent-ref %}

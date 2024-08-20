@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# PERMANENT VAL SPOOFER
+# 🛡️ PERMANENT VAL SPOOFER
 
 <figure><img src="../../.gitbook/assets/permval team073 brand.gif" alt=""><figcaption></figcaption></figure>
 

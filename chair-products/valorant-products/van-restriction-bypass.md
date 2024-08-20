@@ -17,13 +17,17 @@ layout:
     visible: true
 ---
 
-# VAN:RESTRICTION BYPASS
+# 🚫 VAN:RESTRICTION BYPASS
+
+{% hint style="info" %}
+
 
 **This method will bypass the following errors**
 
 * **HVCI (Core Isolation)**
 * **Secure Boot**
 * **TPM**
+{% endhint %}
 
 **Before using the bypass, it is extremely necessary to make the following settings in your bios:**
 
