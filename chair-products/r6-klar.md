@@ -19,6 +19,8 @@ layout:
 
 # R6 KLAR
 
+<figure><img src="../.gitbook/assets/r6 full (1).png" alt=""><figcaption></figcaption></figure>
+
 KLAR PRODUCTS | SETUP INSTRUCTIONSListed Below are The Setup Instructions for KLAR PRODUCTSWhere is my Key?
 
 ```

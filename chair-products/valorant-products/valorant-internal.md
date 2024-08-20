@@ -19,7 +19,9 @@ layout:
 
 # VALORANT INTERNAL
 
-### How to Inject <a href="#how-to-inject" id="how-to-inject"></a>
+<figure><img src="../../.gitbook/assets/valorant gif.gif" alt=""><figcaption></figcaption></figure>
+
+**How to Inject**
 
 **Please**, before injecting, always restart your computer, as the injection process becomes safer. _**(Optional)**_
 
@@ -37,7 +39,7 @@ Once you have already logged into your account, wait for the loader to ask you t
 
 Any issues? please create a ticket and ping on of our staff members for help.
 
-Video tutorial if needed : (icons has same injection process), here i am also loading bypass as well, but you can just of course skip that if you are just loading the cheat
+
 
 #### FAQ <a href="#faq" id="faq"></a>
 

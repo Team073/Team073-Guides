@@ -19,6 +19,8 @@ layout:
 
 # FORTNITE EXTERNAL
 
+<figure><img src="../.gitbook/assets/fortnitexternal gif.gif" alt=""><figcaption></figcaption></figure>
+
 Game Setup Guide
 
 **Pre-Installation Steps**:

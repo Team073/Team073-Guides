@@ -19,3 +19,4 @@ layout:
 
 # RUST EXTERNAL
 
+<figure><img src="../.gitbook/assets/rust gif.gif" alt=""><figcaption></figcaption></figure>

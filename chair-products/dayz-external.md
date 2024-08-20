@@ -19,6 +19,8 @@ layout:
 
 # DAYZ EXTERNAL
 
+<figure><img src="../.gitbook/assets/dayz gif.gif" alt=""><figcaption></figcaption></figure>
+
 Make sure no third party anti-viruses are installed, Vanguard/FaceIT is uninstalled, and that you have disabled windows defender via dcontrol
 
 1. Download overwolf recorder at this link :[https://download.overwolf.com/install/Download?Channel=web\_dl\_btn\&utm\_content=new-light](https://download.overwolf.com/install/Download?Channel=web\_dl\_btn\&utm\_content=new-light)

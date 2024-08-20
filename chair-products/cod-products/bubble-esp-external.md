@@ -19,6 +19,8 @@ layout:
 
 # BUBBLE ESP EXTERNAL
 
+<figure><img src="../../.gitbook/assets/bubblew.png" alt=""><figcaption></figcaption></figure>
+
 MW3 BUBBLE | PRE-INJECTION INSTRUCTIONS Listed Below are The setup instructions for the MW3 Bubble TUTORIAL [Setup video](https://www.youtube.com/watch?v=iKSBTBJ7JMU)
 
 MW3 BUBBLE | INJECTION INSTRUCTIONSListed Below are The injection instructions for the MW3 BubbleTUTORIAL[Injection Video](https://www.youtube.com/watch?v=Yxt538MPbis)

@@ -19,6 +19,8 @@ layout:
 
 # VALORANT EXTERNAL
 
+<figure><img src="../../.gitbook/assets/valext gif (1).gif" alt=""><figcaption></figcaption></figure>
+
 ### How to Inject <a href="#how-to-inject" id="how-to-inject"></a>
 
 **Please**, before injecting, always restart your computer, as the injection process becomes safer. _**(Optional)**_
@@ -35,7 +37,7 @@ As soon as the game is selected your mouse/keyboard will stop working and after 
 
 Once you have already logged into your account, wait for the loader to ask you to open the game, when it asks you just open the game and wait for it to do the necessary steps for a quick and safe injection, after that just enjoy the game !
 
-here i am also loading bypass as well, but you can just of course skip that if you are just loading the cheat (ignore im using full, same as with icons)
+
 
 #### FAQ <a href="#faq" id="faq"></a>
 
