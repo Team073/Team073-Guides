@@ -22,7 +22,11 @@ layout:
 
 <figure><img src="../.gitbook/assets/r6 full (1).png" alt=""><figcaption></figcaption></figure>
 
-KLAR PRODUCTS | SETUP INSTRUCTIONSListed Below are The Setup Instructions for KLAR PRODUCTSWhere is my Key?
+## KLAR PRODUCTS | SETUP INSTRUCTIONS
+
+Listed Below are The Setup Instructions for KLAR PRODUCTS
+
+Where is my Key?
 
 ```
 + You can find the purchased key in your email or on forum in the Manage purchases section
@@ -34,7 +38,11 @@ How to activate my key?
 + Open the loader, login, and press Keys in the bottom section, Copy your purchased key and paste it into the Key tab then press activate
 ```
 
-KLAR PRODUCTS | INJECTION INSTRUCTIONSListed Below are The Injection Instructions for KLAR PRODUCTSSTEP 1
+## KLAR PRODUCTS | INJECTION INSTRUCTIONS
+
+Listed Below are The Injection Instructions for KLAR PRODUCTS
+
+STEP 1
 
 ```
 + Open the Loader
@@ -77,7 +85,11 @@ STEP 7
 
 ```
 
-KLAR PRODUCTS | ERROR TROUBLESHOOTINGListed Below are The Troubleshooting Instructions for KLAR PRODUCTSVGC.SYS
+## KLAR PRODUCTS | ERROR TROUBLESHOOTING
+
+Listed Below are The Troubleshooting Instructions for KLAR PRODUCTS
+
+VGC.SYS
 
 ```
 + Uninstall Riot Vanguard or Open CMD as Admin, type sc stop vgk and restart computer
@@ -107,7 +119,11 @@ L2 -(1073741637)
 + Be sure Memory Integrity is turned off by doing the following: Windows Security -> Device Security -> Core Isolation -> Memory Integrity, turn it off and restart PC
 ```
 
-VCRUNTIME | MSVCP140.DLL`Please install vc_redist.x64.exe`[here](https://www.microsoft.com/en-us/download/details.aspx?id=48145)M1 | DEBUG ERROR 2
+VCRUNTIME | MSVCP140.DLL
+
+`Please install vc_redist.x64.exe`[here](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
+
+M1 | DEBUG ERROR 2
 
 ```
 + Common issue on windows Home Versions
