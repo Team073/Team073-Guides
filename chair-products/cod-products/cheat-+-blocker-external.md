@@ -19,7 +19,9 @@ layout:
 
 # CHEAT + BLOCKER EXTERNAL
 
-Listed Below are The Setup Instructions for EXTERNAL CHEAT + BLOCKERClose Game Launch
+### Listed Below are The Setup Instructions for EXTERNAL CHEAT + BLOCKER
+
+Close Game Launch
 
 ```
 + This cheat requires the game launcher to be closed before running
@@ -36,7 +38,11 @@ Anti-Cheat Software Must Be removed`Uninstall Anti-Cheat Software`
 For Riot Vanguard, ESEA, and FaceIT, you will need to go into your Apps & Programs in Windows settings to uninstall it fully. They are very invasive and will block the driver from loading
 ```
 
-Disable Windows Defender`We recommend using` [Defender Control](https://mega.nz/file/Jv0x2S6C#vxR1b33Z6IPdqiiPp9CNpwGO\_pWCn5izfSgOIsjGjH0)For Your Situational Awareness (FYSA)
+Disable Windows Defender
+
+`We recommend using` [Defender Control](https://mega.nz/file/Jv0x2S6C#vxR1b33Z6IPdqiiPp9CNpwGO\_pWCn5izfSgOIsjGjH0)
+
+For Your Situational Awareness (FYSA)
 
 ```
 + Your PC Will shut down after closing your Game for Security Reasons
@@ -46,7 +52,11 @@ Tutorial [In-Depth Tutorial](https://youtu.be/gfoEsAfnvks)
 
 
 
-EXTERNAL CHEAT + BLOCKER | INJECTION INSTRUCTIONSListed Below are The injection Instructions for EXTERNAL CHEAT + BLOCKERSave Your Keys
+EXTERNAL CHEAT + BLOCKER | INJECTION INSTRUCTIONS
+
+Listed Below are The injection Instructions for EXTERNAL CHEAT + BLOCKER
+
+Save Your Keys
 
 ```
 + Once you leave the order page, you wont be able to come back. Dont risk losing your keys
@@ -82,7 +92,11 @@ STEP 5
 + Press OK and then Run Call of Duty normally from either Battle.net or Steam. The cheat starts hidden. Press Insert or Home to display it!
 ```
 
-EXTERNAL CHEAT + BLOCKER | ERROR TROUBLESHOOTINGListed Below are The Troubleshooting Instructions for EXTERNAL CHEAT + BLOCKERMenu Is Not Showing Up for Me
+EXTERNAL CHEAT + BLOCKER | ERROR TROUBLESHOOTING
+
+Listed Below are The Troubleshooting Instructions for EXTERNAL CHEAT + BLOCKER
+
+Menu Is Not Showing Up for Me
 
 ```
 + The button to open the menu is INS (INSERT)
@@ -115,3 +129,8 @@ Error 1 While Launching Loader
 + Do not run Loader from Archive, If possible Extract it first
 + If the error Persists, disable TPM in BIOS
 ```
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+\+ Most of the time restarting pc will fix this issue
+

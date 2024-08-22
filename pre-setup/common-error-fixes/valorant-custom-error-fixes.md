@@ -20,7 +20,7 @@ layout:
 
 # VALORANT CUSTOM ERROR FIXES
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Sandbox 0xA000043F
 
