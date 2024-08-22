@@ -37,7 +37,17 @@ Step 2`Download the loader`[here](https://downloads.team073.com/Cheato\_legit.ex
 + Just a heads up: There's a slim chance your Anti-Virus will flag our loader as a false positive. This is due to our anti-cracking and protection software, but rest assured, the loader is very safe. If this happens, you will need to disable your anti-virus before proceeding.
 ```
 
-Step 3`Turn of Hyper V - Windows 11` [here](https://www.youtube.com/watch?v=m\_vx8v5nXnc) `Turn Off Hyper V - Windows 10` [here](https://www.youtube.com/watch?v=myrjlb\_F-x0) `Turn Off Core isolation - Windows 10` [here](https://www.youtube.com/watch?v=a9L9CM2sW50) `Turn Off Core Isolation - Windows 11` [here](https://www.youtube.com/watch?v=FF6MV7EjApc)Step 4
+Step 3
+
+`Turn of Hyper V - Windows 11` [here](https://www.youtube.com/watch?v=m\_vx8v5nXnc)&#x20;
+
+`Turn Off Hyper V - Windows 10` [here](https://www.youtube.com/watch?v=myrjlb\_F-x0)&#x20;
+
+`Turn Off Core isolation - Windows 10` [here](https://www.youtube.com/watch?v=a9L9CM2sW50)&#x20;
+
+`Turn Off Core Isolation - Windows 11` [here](https://www.youtube.com/watch?v=FF6MV7EjApc)
+
+Step 4
 
 ```
 + Run the loader as admin when prompted enter your key
