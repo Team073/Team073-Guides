@@ -23,8 +23,6 @@ layout:
 
 ### MW3 BUBBLE | PRE-INJECTION INSTRUCTIONS
 
-Listed Below are The setup instructions for the MW3 Bubble TUTORIAL&#x20;
-
 [Setup video](https://www.youtube.com/watch?v=iKSBTBJ7JMU)
 
 MW3 BUBBLE | INJECTION INSTRUCTIONS
@@ -35,9 +33,7 @@ Listed Below are The injection instructions for the MW3 Bubble
 
 [Injection Video](https://www.youtube.com/watch?v=Yxt538MPbis)
 
-MW3 BUBBLE | ERROR TROUBLESHOOTING
-
-Listed Below are The Troubleshooting steps for the MW3 Bubble
+### MW3 BUBBLE | ERROR TROUBLESHOOTING
 
 Driver Failed to Load at Injection Phase
 

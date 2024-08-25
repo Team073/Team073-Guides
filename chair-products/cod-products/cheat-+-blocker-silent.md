@@ -19,7 +19,7 @@ layout:
 
 # CHEAT + BLOCKER Silent
 
-Listed Below are The Setup instructions for CHEAT + SPOOFER Silent
+### Listed Below are The Setup instructions for CHEAT + SPOOFER Silent
 
 Step 1
 

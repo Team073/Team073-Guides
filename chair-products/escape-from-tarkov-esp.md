@@ -20,7 +20,9 @@ layout:
 
 # ESCAPE FROM TARKOV ESP
 
-EFT WALLHACK | SETUP INSTRUCTIONSListed Below are The Setup Instructions for EFT WALLHACKUninstall Anticheats?
+EFT WALLHACK | SETUP INSTRUCTIONS
+
+Uninstall Anticheats?
 
 ```
 + Uninstall and Disable any antiviurs | Vanguard | FaceIt
@@ -34,7 +36,9 @@ Keybinds
 + F4 - No Sway
 ```
 
-EFT WALLHACK | INJECTION INSTRUCTIONSListed Below are The Injection Instructions for EFT WALLHACKSTEP 1
+EFT WALLHACK | INJECTION INSTRUCTIONS
+
+STEP 1
 
 ```
 + Open the Loader
@@ -52,7 +56,9 @@ STEP 3
 + There is no menu, chams is automatically activated
 ```
 
-EFT WALLHACK | ERROR TROUBLESHOOTINGListed Below are The Troubleshooting Instructions for EFT WALLHACKGame Crash?
+EFT WALLHACK | ERROR TROUBLESHOOTING
+
+Game Crash?
 
 ```
 + Verify Integrity of the game, Clear Game Cache, disable Ram Clearner in EFT Settings

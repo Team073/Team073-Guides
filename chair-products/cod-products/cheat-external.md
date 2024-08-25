@@ -58,8 +58,6 @@ Tutorial [In-Depth Tutorial](https://youtu.be/gfoEsAfnvks)
 
 ### EXTERNAL CHEAT  | INJECTION INSTRUCTIONS
 
-Listed Below are The injection Instructions for EXTERNAL CHEAT&#x20;
-
 Save Your Keys
 
 ```
@@ -97,8 +95,6 @@ STEP 5
 ```
 
 ### EXTERNAL CHEAT  | ERROR TROUBLESHOOTING
-
-Listed Below are The Troubleshooting Instructions for EXTERNAL CHEAT + BLOCKER
 
 Menu Is Not Showing Up for Me
 

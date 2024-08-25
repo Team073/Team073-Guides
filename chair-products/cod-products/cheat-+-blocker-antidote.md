@@ -21,7 +21,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/internal gif (1).gif" alt=""><figcaption></figcaption></figure>
 
-Listed Below are The injection instructions for CHEAT + SPOOFER ANTIDOTE
+### Listed Below are The injection instructions for CHEAT + SPOOFER ANTIDOTE
 
 Quick Note
 

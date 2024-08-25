@@ -24,8 +24,6 @@ layout:
 
 ## KLAR PRODUCTS | SETUP INSTRUCTIONS
 
-Listed Below are The Setup Instructions for KLAR PRODUCTS
-
 Where is my Key?
 
 ```
@@ -39,8 +37,6 @@ How to activate my key?
 ```
 
 ## KLAR PRODUCTS | INJECTION INSTRUCTIONS
-
-Listed Below are The Injection Instructions for KLAR PRODUCTS
 
 STEP 1
 
@@ -86,8 +82,6 @@ STEP 7
 ```
 
 ## KLAR PRODUCTS | ERROR TROUBLESHOOTING
-
-Listed Below are The Troubleshooting Instructions for KLAR PRODUCTS
 
 VGC.SYS
 
