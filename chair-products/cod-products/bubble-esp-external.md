@@ -23,7 +23,9 @@ layout:
 
 ### MW3 BUBBLE | PRE-INJECTION INSTRUCTIONS
 
-Listed Below are The setup instructions for the MW3 Bubble TUTORIAL [Setup video](https://www.youtube.com/watch?v=iKSBTBJ7JMU)
+Listed Below are The setup instructions for the MW3 Bubble TUTORIAL&#x20;
+
+[Setup video](https://www.youtube.com/watch?v=iKSBTBJ7JMU)
 
 MW3 BUBBLE | INJECTION INSTRUCTIONS
 
