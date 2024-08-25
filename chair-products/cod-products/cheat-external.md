@@ -17,9 +17,11 @@ layout:
     visible: true
 ---
 
-# CHEAT + BLOCKER EXTERNAL
+# CHEAT  EXTERNAL
 
-### Listed Below are The Setup Instructions for EXTERNAL CHEAT + BLOCKER
+<figure><img src="../../.gitbook/assets/newextgif.gif" alt=""><figcaption></figcaption></figure>
+
+### Listed Below are The Setup Instructions for EXTERNAL CHEAT&#x20;
 
 Close Game Launch
 
@@ -27,7 +29,9 @@ Close Game Launch
 + This cheat requires the game launcher to be closed before running
 ```
 
-Anti-Cheat Software Must Be removed`Uninstall Anti-Cheat Software`
+Anti-Cheat Software Must Be removed
+
+`Uninstall Anti-Cheat Software`
 
 ```
 + Disabled Fast Boot (Recommended, Not Necessary)
@@ -52,9 +56,9 @@ Tutorial [In-Depth Tutorial](https://youtu.be/gfoEsAfnvks)
 
 
 
-EXTERNAL CHEAT + BLOCKER | INJECTION INSTRUCTIONS
+### EXTERNAL CHEAT  | INJECTION INSTRUCTIONS
 
-Listed Below are The injection Instructions for EXTERNAL CHEAT + BLOCKER
+Listed Below are The injection Instructions for EXTERNAL CHEAT&#x20;
 
 Save Your Keys
 
@@ -92,7 +96,7 @@ STEP 5
 + Press OK and then Run Call of Duty normally from either Battle.net or Steam. The cheat starts hidden. Press Insert or Home to display it!
 ```
 
-EXTERNAL CHEAT + BLOCKER | ERROR TROUBLESHOOTING
+### EXTERNAL CHEAT  | ERROR TROUBLESHOOTING
 
 Listed Below are The Troubleshooting Instructions for EXTERNAL CHEAT + BLOCKER
 
@@ -108,7 +112,9 @@ After I Press Insert I Hear A Beep But Dont See A Menu
 + If you have 2+ Monitors, before loading the chair you should fully disconnect all monitors except 1. Also ensure you close all overlays -> Uninstall wallpaper engine -> Install the following:
 ```
 
-`DirectX Drivers` - [Here](https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe)My ESP is Lagging, What do I do?
+`DirectX Drivers` - [Here](https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe)
+
+My ESP is Lagging, What do I do?
 
 ```
 + Turn Off XBOX Game Mode

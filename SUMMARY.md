@@ -18,7 +18,7 @@
   * [CHEAT + BLOCKER ANTIDOTE](chair-products/cod-products/cheat-+-blocker-antidote.md)
   * [CHEAT + BLOCKER GHOST](chair-products/cod-products/cheat-+-blocker-ghost.md)
   * [CHEAT + BLOCKER SILENT](chair-products/cod-products/cheat-+-blocker-silent.md)
-  * [CHEAT + BLOCKER EXTERNAL](chair-products/cod-products/cheat-+-blocker-external.md)
+  * [CHEAT  EXTERNAL](chair-products/cod-products/cheat-external.md)
   * [BUBBLE ESP EXTERNAL](chair-products/cod-products/bubble-esp-external.md)
 * [VALORANT PRODUCTS](chair-products/valorant-products/README.md)
   * [VALORANT EXTERNAL](chair-products/valorant-products/valorant-external.md)
