@@ -25,7 +25,9 @@ Listed Below are The injection instructions for CHEAT + SPOOFER ANTIDOTE
 
 Quick Note
 
-`If you've used cheats or tools before, even for other games, we suggest following these steps to lower your risk of getting banned: Reinstall your Windows operating system. This ensures any detected traces are wiped clean. Begin anew with a fresh level 1 account. This ensures your account is clean without any flags. Always remember, never experiment with new tools on your main account, regardless of what they are. Always test them on alternate accounts first.`Step 1
+`If you've used cheats or tools before, even for other games, we suggest following these steps to lower your risk of getting banned: Reinstall your Windows operating system. This ensures any detected traces are wiped clean. Begin anew with a fresh level 1 account. This ensures your account is clean without any flags. Always remember, never experiment with new tools on your main account, regardless of what they are. Always test them on alternate accounts first.`
+
+Step 1
 
 ```
 + Save your key(s)
