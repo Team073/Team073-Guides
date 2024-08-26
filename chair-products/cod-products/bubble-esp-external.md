@@ -19,9 +19,9 @@ layout:
 
 # BUBBLE ESP EXTERNAL
 
-<figure><img src="../../.gitbook/assets/bubblew.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bubbleunbranded.png" alt=""><figcaption></figcaption></figure>
 
-### MW3 BUBBLE | PRE-INJECTION INSTRUCTIONS
+MW3 BUBBLE | PRE-INJECTION INSTRUCTIONS
 
 [Setup video](https://www.youtube.com/watch?v=iKSBTBJ7JMU)
 
