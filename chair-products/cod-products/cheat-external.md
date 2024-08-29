@@ -136,3 +136,10 @@ Error 1 While Launching Loader
 
 \+ Most of the time restarting pc will fix this issue
 
+
+
+Features not working on Xbox Gamepass&#x20;
+
+* make sure that you have "xbox" written some were on the path to the game
+
+<figure><img src="../../.gitbook/assets/dd.png" alt=""><figcaption></figcaption></figure>
