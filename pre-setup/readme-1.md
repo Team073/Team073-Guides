@@ -45,3 +45,7 @@ This is something you should always do before using our cheats/opening a ticket.
 
 
 If you get SSL Connect Error on one of our loaders, go to this path in file explorer : %WinDir%\System32\Drivers\Etc fully delete hosts files, and connect to [https://one.one.one.one/](https://one.one.one.one/), then try again.
+
+<figure><img src="../.gitbook/assets/batfix.png" alt=""><figcaption></figcaption></figure>
+
+Use if you get the error above ^ --> [https://downloads.team073.com/ALLFIX.bat](https://downloads.team073.com/ALLFIX.bat)
