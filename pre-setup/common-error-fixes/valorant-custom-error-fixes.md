@@ -42,11 +42,13 @@ If you get stuck on "Please wait..." or "Information being checked.." or anythin
 
 ![](https://guides.moddingassociation.net/\~gitbook/image?url=https%3A%2F%2F4078172018-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fgxol57krZAOcrJxJpuhe%252Fuploads%252FTRQEAbHutHdNMXsU6kfy%252Fimage.png%3Falt%3Dmedia%26token%3D01fecf74-840c-4e4b-a7f5-d1abeb937252\&width=768\&dpr=4\&quality=100\&sign=466af605\&sv=1)
 
-Run our fixer at [https://downloads.team073.com/fixer.rar](https://downloads.team073.com/fixer.rar) and run [this](https://cdn.discordapp.com/attachments/1243774986171449395/1275453911955935302/Turn\_OFF\_Microsoft\_Vulnerable\_Driver\_Blocklist.reg?ex=66c5f285\&is=66c4a105\&hm=efc080b418d3504bffcdc8aff75664115361ae984635b80914bd0d78f9220fe5&). Then restart your pc and try again, also make sure Anti-virus is disabled via dcontrol, and FaceIT is uninstalled.
+Run our fixer at [https://downloads.team073.com/fixer.rar](https://downloads.team073.com/fixer.rar) and run Turn\_OFF\_Microsoft\_Vulnerable\_Driver\_Blocklist.reg inside the rar file.
+
+. Then restart your pc and try again, also make sure Anti-virus is disabled via dcontrol, and FaceIT is uninstalled.
 
 ![](https://guides.moddingassociation.net/\~gitbook/image?url=https%3A%2F%2F4078172018-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fgxol57krZAOcrJxJpuhe%252Fuploads%252FYIM8gGIQM3Pa4vuvIfwx%252FScreenshot\_2024-08-18\_145011.png%3Falt%3Dmedia%26token%3Dffab7aeb-9bed-430d-b1b6-19acc4a0888b\&width=768\&dpr=4\&quality=100\&sign=a73cd1b3\&sv=1)
 
-Simply run [this](https://cdn.discordapp.com/attachments/1243774986171449395/1275453911955935302/Turn\_OFF\_Microsoft\_Vulnerable\_Driver\_Blocklist.reg?ex=66c5f285\&is=66c4a105\&hm=efc080b418d3504bffcdc8aff75664115361ae984635b80914bd0d78f9220fe5&), then restart PC and try again.
+Simply run Run Turn\_OFF\_Microsoft\_Vulnerable\_Driver\_Blocklist.reg in [https://downloads.team073.com/fixer.rar](https://downloads.team073.com/fixer.rar) , then restart PC and try again.
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
