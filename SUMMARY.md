@@ -33,6 +33,7 @@
 * [DAYZ EXTERNAL](chair-products/dayz-external.md)
 * [ESCAPE FROM TARKOV ESP](chair-products/escape-from-tarkov-esp.md)
 * [2K24 2N1](chair-products/2k24-2n1.md)
+* [ASSIST TOOL](chair-products/assist-tool.md)
 
 ## ⚙️ SPOOFER PRODUCTS
 

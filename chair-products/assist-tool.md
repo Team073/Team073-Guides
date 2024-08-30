@@ -1,0 +1,29 @@
+---
+icon: message-bot
+---
+
+# ASSIST TOOL
+
+<figure><img src="../.gitbook/assets/assist tool.png" alt=""><figcaption></figcaption></figure>
+
+{% content-ref url="../pre-setup/readme-1.md" %}
+[readme-1.md](../pre-setup/readme-1.md)
+{% endcontent-ref %}
+
+## Step 1
+
+Open the game you would like to play on.&#x20;
+
+## Step 2
+
+Inject the program, It will automaticly pick the right game.&#x20;
+
+## Step 3
+
+Use insert to toggle
+
+### Extra info
+
+F5 and F6 buttons are set as pause/resume and exit buttons
+
+Make sure you games is in fullscreen boarderless or windowed
