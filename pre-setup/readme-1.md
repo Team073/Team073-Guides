@@ -29,7 +29,7 @@ layout:
     1. Click the "Disable Windows Defender" Button if it works properly it should look like below:
 
     ![](../.gitbook/assets/image\_2024-08-20\_083859552.png)
-4. Uninstall any 3rd party Antivirus (Norton, Total AV, Aura, BitDefender, McAfee, etc )
+4. Uninstall any 3rd party Antivirus (Norton, Total AV, Aura, BitDefender, McAfee, etc )![](../.gitbook/assets/98940-F78-E45-F-4-A75-8-B51-EA0228-EF0-BF3.webp)
 
 ## Generic Troubleshooting
 
