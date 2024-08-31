@@ -25,5 +25,3 @@ Use insert to toggle
 ### Extra info
 
 F5 and F6 buttons are set as pause/resume and exit buttons
-
-Make sure you games is in fullscreen boarderless or windowed
