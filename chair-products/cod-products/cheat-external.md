@@ -151,3 +151,7 @@ Features not working on Xbox Gamepass&#x20;
 * make sure that you have "xbox" written some were on the path to the game
 
 <figure><img src="../../.gitbook/assets/dd.png" alt=""><figcaption></figcaption></figure>
+
+3. The menu disappears, is not visible, visible only for a moment, what should I do?
+
+Close Task Manager, close Xbox Game Bar, close Screen Recorders, update drivers
