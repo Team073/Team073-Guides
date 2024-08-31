@@ -19,9 +19,17 @@ layout:
 
 # CHEAT  EXTERNAL
 
-<figure><img src="../../.gitbook/assets/newextgif.gif" alt=""><figcaption></figcaption></figure>
 
-### Listed Below are The Setup Instructions for EXTERNAL CHEAT&#x20;
+
+<figure><img src="../../.gitbook/assets/external new gif.gif" alt=""><figcaption></figcaption></figure>
+
+
+
+{% content-ref url="../../pre-setup/readme-1.md" %}
+[readme-1.md](../../pre-setup/readme-1.md)
+{% endcontent-ref %}
+
+Listed Below are The Setup Instructions for EXTERNAL CHEAT&#x20;
 
 Close Game Launch
 

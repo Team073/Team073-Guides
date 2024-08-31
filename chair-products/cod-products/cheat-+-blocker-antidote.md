@@ -21,6 +21,10 @@ layout:
 
 <figure><img src="../../.gitbook/assets/internal gif (1).gif" alt=""><figcaption></figcaption></figure>
 
+{% content-ref url="../../pre-setup/readme-1.md" %}
+[readme-1.md](../../pre-setup/readme-1.md)
+{% endcontent-ref %}
+
 ### Listed Below are The injection instructions for CHEAT + SPOOFER ANTIDOTE
 
 Quick Note

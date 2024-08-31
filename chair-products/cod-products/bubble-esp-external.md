@@ -21,6 +21,10 @@ layout:
 
 <figure><img src="../../.gitbook/assets/bubbleunbranded.png" alt=""><figcaption></figcaption></figure>
 
+{% content-ref url="../../pre-setup/readme-1.md" %}
+[readme-1.md](../../pre-setup/readme-1.md)
+{% endcontent-ref %}
+
 MW3 BUBBLE | PRE-INJECTION INSTRUCTIONS
 
 [Setup video](https://www.youtube.com/watch?v=iKSBTBJ7JMU)
