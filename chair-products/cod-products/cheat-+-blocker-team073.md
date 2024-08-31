@@ -17,5 +17,10 @@ layout:
     visible: true
 ---
 
-# CHEAT + BLOCKER SILENT
+# CHEAT + BLOCKER TEAM073
 
+<figure><img src="../../.gitbook/assets/newinternalteam073.gif" alt=""><figcaption></figcaption></figure>
+
+{% content-ref url="../../pre-setup/readme-1.md" %}
+[readme-1.md](../../pre-setup/readme-1.md)
+{% endcontent-ref %}
