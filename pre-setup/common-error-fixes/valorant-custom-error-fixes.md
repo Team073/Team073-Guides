@@ -38,7 +38,7 @@ Sandbox 0xA000043F
 
 ![](https://guides.moddingassociation.net/\~gitbook/image?url=https%3A%2F%2F4078172018-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fgxol57krZAOcrJxJpuhe%252Fuploads%252FJO4xg3mST9CK8WWtwFbv%252Fimage.png%3Falt%3Dmedia%26token%3Dfd7bdc34-f95c-44c1-8ad2-5176ea6ae668\&width=768\&dpr=4\&quality=100\&sign=29e15cbf\&sv=1)
 
-If you get stuck on "Please wait..." or "Information being checked.." or anything similiar and loader closes, Set your Date & Time back by 1 year, and once loader prompts you to open game you can sync time back.
+If you get stuck on "Please wait..." or "Information being checked.." or "Server issue.." anything similiar and loader closes, Set your Date & Time back by 1 year, and once loader prompts you to open game you can sync time back.
 
 ![](https://guides.moddingassociation.net/\~gitbook/image?url=https%3A%2F%2F4078172018-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fgxol57krZAOcrJxJpuhe%252Fuploads%252FTRQEAbHutHdNMXsU6kfy%252Fimage.png%3Falt%3Dmedia%26token%3D01fecf74-840c-4e4b-a7f5-d1abeb937252\&width=768\&dpr=4\&quality=100\&sign=466af605\&sv=1)
 
