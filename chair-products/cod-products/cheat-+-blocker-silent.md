@@ -17,10 +17,10 @@ layout:
     visible: true
 ---
 
-# CHEAT + BLOCKER Silent
+# CHEAT + BLOCKER SILENT
 
-{% content-ref url="../../pre-setup/readme-1.md" %}
-[readme-1.md](../../pre-setup/readme-1.md)
+{% content-ref url="../../" %}
+[..](../../)
 {% endcontent-ref %}
 
 ### Listed Below are The Setup instructions for CHEAT + SPOOFER Silent

@@ -6,8 +6,8 @@ icon: message-bot
 
 <figure><img src="../.gitbook/assets/assist tool.png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="../pre-setup/readme-1.md" %}
-[readme-1.md](../pre-setup/readme-1.md)
+{% content-ref url="../" %}
+[..](../)
 {% endcontent-ref %}
 
 ## Step 1

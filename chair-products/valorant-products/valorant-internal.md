@@ -102,6 +102,6 @@ The delay is the response time for the trigger to shoot once your enemy passes t
 
 
 
-{% content-ref url="../../pre-setup/common-error-fixes/valorant-custom-error-fixes.md" %}
-[valorant-custom-error-fixes.md](../../pre-setup/common-error-fixes/valorant-custom-error-fixes.md)
+{% content-ref url="valorant-custom-error-fixes.md" %}
+[valorant-custom-error-fixes.md](valorant-custom-error-fixes.md)
 {% endcontent-ref %}

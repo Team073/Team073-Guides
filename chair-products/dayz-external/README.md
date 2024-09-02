@@ -1,6 +1,6 @@
 ---
 icon: sunrise
-cover: ../.gitbook/assets/1680d8f8846a0b9f65edea64957a1880.png
+cover: ../../.gitbook/assets/1680d8f8846a0b9f65edea64957a1880.png
 coverY: 0
 layout:
   cover:
@@ -20,7 +20,7 @@ layout:
 
 # DAYZ EXTERNAL
 
-<figure><img src="../.gitbook/assets/dayz gif.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dayz gif.gif" alt=""><figcaption></figcaption></figure>
 
 Make sure no third party anti-viruses are installed, Vanguard/FaceIT is uninstalled, and that you have disabled windows defender via dcontrol
 
@@ -32,6 +32,6 @@ Make sure no third party anti-viruses are installed, Vanguard/FaceIT is uninstal
 
 
 
-{% content-ref url="../pre-setup/common-error-fixes/dayz-custom-error-fixes.md" %}
-[dayz-custom-error-fixes.md](../pre-setup/common-error-fixes/dayz-custom-error-fixes.md)
+{% content-ref url="dayz-custom-error-fixes.md" %}
+[dayz-custom-error-fixes.md](dayz-custom-error-fixes.md)
 {% endcontent-ref %}

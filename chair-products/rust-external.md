@@ -24,8 +24,8 @@ layout:
 
 Make sure anti-virus disabled via dcontrol&#x20;
 
-{% content-ref url="../pre-setup/readme-1.md" %}
-[readme-1.md](../pre-setup/readme-1.md)
+{% content-ref url="../" %}
+[..](../)
 {% endcontent-ref %}
 
 

@@ -60,6 +60,6 @@ Once you have already logged into your account, wait for the loader to ask you t
 
 
 
-{% content-ref url="../../pre-setup/common-error-fixes/valorant-custom-error-fixes.md" %}
-[valorant-custom-error-fixes.md](../../pre-setup/common-error-fixes/valorant-custom-error-fixes.md)
+{% content-ref url="valorant-custom-error-fixes.md" %}
+[valorant-custom-error-fixes.md](valorant-custom-error-fixes.md)
 {% endcontent-ref %}

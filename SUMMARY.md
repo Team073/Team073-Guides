@@ -1,16 +1,8 @@
 # Table of contents
 
-## 📌 GETTING STARTED
-
-* [❓ FAQ](README.md)
-
 ## 📖 Pre-Setup
 
-* [ANTIVIRUS SETTINGS](pre-setup/readme-1.md)
-* [COMMON ERROR FIXES](pre-setup/common-error-fixes/README.md)
-  * [APEX CUSTOM ERROR FIXES](pre-setup/common-error-fixes/apex-custom-error-fixes.md)
-  * [VALORANT CUSTOM ERROR FIXES](pre-setup/common-error-fixes/valorant-custom-error-fixes.md)
-  * [DAYZ CUSTOM ERROR FIXES](pre-setup/common-error-fixes/dayz-custom-error-fixes.md)
+* [🚫 ANTIVIRUS SETTINGS](README.md)
 
 ## 💉 CHAIR PRODUCTS
 
@@ -26,11 +18,14 @@
   * [🛡️ PERMANENT VAL SPOOFER](chair-products/valorant-products/permanent-val-spoofer.md)
   * [🔓 TPM BYPASS](chair-products/valorant-products/tpm-bypass.md)
   * [🚫 VAN:RESTRICTION BYPASS](chair-products/valorant-products/van-restriction-bypass.md)
-* [APEX EXTERNAL](chair-products/apex-external.md)
+  * [VALORANT CUSTOM ERROR FIXES](chair-products/valorant-products/valorant-custom-error-fixes.md)
+* [APEX EXTERNAL](chair-products/apex-external/README.md)
+  * [APEX CUSTOM ERROR FIXES](chair-products/apex-external/apex-custom-error-fixes.md)
 * [R6 KLAR](chair-products/r6-klar.md)
 * [RUST EXTERNAL](chair-products/rust-external.md)
 * [FORTNITE EXTERNAL](chair-products/fortnite-external.md)
-* [DAYZ EXTERNAL](chair-products/dayz-external.md)
+* [DAYZ EXTERNAL](chair-products/dayz-external/README.md)
+  * [DAYZ CUSTOM ERROR FIXES](chair-products/dayz-external/dayz-custom-error-fixes.md)
 * [ESCAPE FROM TARKOV ESP](chair-products/escape-from-tarkov-esp.md)
 * [2K24 2N1](chair-products/2k24-2n1.md)
 * [ASSIST TOOL](chair-products/assist-tool.md)
