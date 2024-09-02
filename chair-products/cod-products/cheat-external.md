@@ -154,4 +154,4 @@ Features not working on Xbox Gamepass&#x20;
 
 3. The menu disappears, is not visible, visible only for a moment, what should I do?
 
-Close Task Manager, close Xbox Game Bar, close Screen Recorders, update drivers
+Close Task Manager, close Xbox Game Bar, close Screen Recorders, update drivers, if amd run the game in safe mode \[ if amd, uninstall all amd apps except the one for drivers ] ( the one for drivers should be terminated before running the chair )
