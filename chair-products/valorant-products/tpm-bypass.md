@@ -51,11 +51,11 @@ After bypassing TPM, it's always a good idea to check if it’s really working.
 
 **TPM Bypassed Correctly**
 
-![](https://guides.moddingassociation.net/\~gitbook/image?url=https%3A%2F%2F4078172018-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fgxol57krZAOcrJxJpuhe%252Fuploads%252FN2zC5kF9Ys5tqVXfXpR3%252Fimage.png%3Falt%3Dmedia%26token%3Dc0c02846-3493-4615-ab5c-83e8ca5807b8\&width=768\&dpr=4\&quality=100\&sign=7e1dbf43\&sv=1)
+<figure><img src="../../.gitbook/assets/tpm1.png" alt=""><figcaption></figcaption></figure>
 
 TPM Bypassed Incorrectly
 
-![](https://guides.moddingassociation.net/\~gitbook/image?url=https%3A%2F%2F4078172018-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fgxol57krZAOcrJxJpuhe%252Fuploads%252FTNudWS2dL0QzqLRxU4dP%252F123.png%3Falt%3Dmedia%26token%3D62a34482-51fb-4bb8-b958-16ad69038c00\&width=768\&dpr=4\&quality=100\&sign=2850c8ae\&sv=1)
+<figure><img src="../../.gitbook/assets/tpm2.png" alt=""><figcaption></figcaption></figure>
 
 #### Spoofer FAQ <a href="#spoofer-faq" id="spoofer-faq"></a>
 
