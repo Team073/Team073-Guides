@@ -12,7 +12,7 @@ icon: message-bot
 
 ## Step 1
 
-Open the game you would like to play on.&#x20;
+Open the Assist tool, when it gives a countdown please open the game you would like to play on.&#x20;
 
 ## Step 2
 
