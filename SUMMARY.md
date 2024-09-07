@@ -2,7 +2,7 @@
 
 ## 📖 Pre-Setup
 
-* [🚫 ANTIVIRUS SETTINGS](README.md)
+* [🚫 !!PRE-SETUP INSTRUCTIONS!!](README.md)
 
 ## 💉 CHAIR PRODUCTS
 
