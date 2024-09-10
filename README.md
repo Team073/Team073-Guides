@@ -17,12 +17,12 @@ layout:
     visible: true
 ---
 
-# 🚫 ANTIVIRUS SETTINGS
+# 🚫 !!PRE-SETUP INSTRUCTIONS!!
 
 ## Disable all antivirus on your computer (No we are not trying to "hack" you) this is to allow loaders to run properly
 
 1. Go to your windows "Virus and Threat Protection" Settings - Turn off real time protection
-2.  Download Dcontrol [here](https://storage.eclipsed.top/moddingassociation/dcontrol.rar)
+2.  Download Dcontrol [here](https://www.sordum.org/9480/defender-control-v2-1/)
 
     1. Click the "Disable Windows Defender" Button if it works properly it should look like below:
 
