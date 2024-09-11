@@ -20,7 +20,7 @@ layout:
 
 # VALORANT CUSTOM ERROR FIXES
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sandbox 0xA000043F
 
@@ -50,7 +50,7 @@ Run our fixer at [https://downloads.team073.com/fixer.rar](https://downloads.tea
 
 Simply run Run Turn\_OFF\_Microsoft\_Vulnerable\_Driver\_Blocklist.reg in [https://downloads.team073.com/fixer.rar](https://downloads.team073.com/fixer.rar) , then restart PC and try again.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Error on vul found >> 1/2 This error is related to your version of Windows. To fix it, simply reinstall your Windows. It is recommended to reinstall to version Windows 10 22h2 19045.2006.
 

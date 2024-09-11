@@ -140,7 +140,7 @@ Error 1 While Launching Loader
 + If the error Persists, disable TPM in BIOS
 ```
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 \+ Most of the time restarting pc will fix this issue
 
