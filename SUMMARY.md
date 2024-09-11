@@ -27,7 +27,7 @@
 * [DAYZ EXTERNAL](chair-products/dayz-external.md)
   * [DAYZ CUSTOM ERROR FIXES](pre-setup/common-error-fixes/dayz-custom-error-fixes.md)
 * [ESCAPE FROM TARKOV ESP](chair-products/escape-from-tarkov-esp.md)
-* [2K24 2N1](chair-products/2k24-2n1.md)
+* [2K25 2N1](chair-products/2k25-2n1.md)
 * [ASSIST TOOL](chair-products/assist-tool.md)
 
 ## ⚙️ SPOOFER PRODUCTS
