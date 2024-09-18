@@ -20,20 +20,21 @@ layout:
 
 # FORTNITE EXTERNAL
 
-<figure><img src="../.gitbook/assets/fortnitexternal gif.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/fortnite external gif.gif" alt=""><figcaption></figcaption></figure>
 
-Game Setup Guide
+
 
 **Pre-Installation Steps**:
 
-* Disable Windows Defender via DControl
-* Download C++ Redistributables and DirectX Runtimes
+
+
+{% content-ref url="../" %}
+[..](../)
+{% endcontent-ref %}
 
 **Setup:**
 
 * Get Your Key: Visit our website and navigate to Manage Purchases to obtain your key.
-* Go to UDPCloud to register your key. https://udpcloud.com
-* After registration, you will be directed to the main dashboard.
-* Click on Download to get your Loader
-* Launch the loader and log in with the credentials you used to register your license. Note: The loader may close the first time after logging in. Simply reopen it and log in again.
-* Activate the Game: Once logged in again, you will be prompted to Press F2 in the lobby.
+* Make sure Discord Overlay is turned on.
+* Launch the loader and log in with the your license. Note: After first time logging in loader may close, delete key.makicheats file then reopen loader and log in again.
+* Activate the Game: Once logged in again, follow the instructions on the loader, make sure game is borderless.
