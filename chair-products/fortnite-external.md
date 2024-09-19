@@ -26,7 +26,10 @@ layout:
 
 **Pre-Installation Steps**:
 
+**Pre-Installation Steps**:
 
+* Disable Windows Defender via DControl
+* Download C++ Redistributables and DirectX Runtimes
 
 {% content-ref url="../" %}
 [..](../)
