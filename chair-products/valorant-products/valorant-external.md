@@ -32,7 +32,7 @@ How to Inject
 **Make** sure there is no other anti-cheat running on your computer, such as Faceit. If there is, uninstall it.
 {% endhint %}
 
-As soon as you receive your key after your purchase you need to register then select option sign up to register, if you already have an account then log in, after you have logged into your account select the cheat you want which in this case is Valorant Internal.
+As soon as you receive your key after your purchase you need to register then select option sign up to register, if you already have an account then log in, after you have logged into your account select the cheat you want which in this case is Valorant EXTERNAL.
 
 {% hint style="warning" %}
 Remember that the game must remain closed until the loader asks to open the game !
@@ -44,19 +44,7 @@ Once you have already logged into your account, wait for the loader to ask you t
 
 
 
-#### FAQ <a href="#faq" id="faq"></a>
 
-> > Does it work on Windows 11?
->
-> **Yes** ! Our Valorant cheat works on all Windows 10 and 11 winvers.
-
-> > Does Valorant work for chinese version of vanguard?
->
-> **No** ! Our Valorant cheat works for all regions except the Chinese region.
-
-> > Is Valorant internal or external?
->
-> Our Valorant cheat is currently completely **external**.
 
 
 
