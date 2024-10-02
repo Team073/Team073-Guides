@@ -18,9 +18,9 @@ layout:
     visible: true
 ---
 
-# VALORANT INTERNAL
+# VALORANT EXTERNAL
 
-<figure><img src="../../.gitbook/assets/valorant gif.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/val internal gif.gif" alt=""><figcaption></figcaption></figure>
 
 ## **How to Inject** <a href="#how-to-inject" id="how-to-inject"></a>
 

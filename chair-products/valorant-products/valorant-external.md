@@ -18,11 +18,11 @@ layout:
     visible: true
 ---
 
-# VALORANT EXTERNAL
+# VALORANT ESP
 
-<figure><img src="../../.gitbook/assets/valext gif (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/val external gif.gif" alt=""><figcaption></figcaption></figure>
 
-### How to Inject <a href="#how-to-inject" id="how-to-inject"></a>
+How to Inject
 
 {% hint style="info" %}
 **Please**, before injecting, always restart your computer, as the injection process becomes safer. _**(Optional)**_
