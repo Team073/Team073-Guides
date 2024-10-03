@@ -22,6 +22,10 @@ layout:
 
 <figure><img src="../../.gitbook/assets/val internal gif.gif" alt=""><figcaption></figcaption></figure>
 
+Quick little update on the Multi-Loader as I have seen many people losing access to their accounts. When you use your key it will get tied to your account with your User ID (not username) and the key won't be valid anymore logically as it is used. Once you are logged in go to Accounts tab and copy your User ID and save it somewhere you do not lose it. If you delete the launcher and redownload it, you will **ONLY** be able to log back in with your User ID and not the license anymore. If you lost access to your account they won't be replaced anymore, as this warning was given.
+
+
+
 ## **How to Inject** <a href="#how-to-inject" id="how-to-inject"></a>
 
 {% hint style="info" %}

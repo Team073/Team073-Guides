@@ -1,6 +1,6 @@
 ---
-description: Temp spoofer for Easy Anti-Cheat and BattleEye
 icon: unlock-keyhole
+description: Temp spoofer for Easy Anti-Cheat and BattleEye
 cover: ../.gitbook/assets/1680d8f8846a0b9f65edea64957a1880.png
 coverY: 0
 layout:
@@ -20,6 +20,8 @@ layout:
 ---
 
 # TEMP SPOOFER EAC/BE
+
+Quick little update on the Multi-Loader as I have seen many people losing access to their accounts. When you use your key it will get tied to your account with your User ID (not username) and the key won't be valid anymore logically as it is used. Once you are logged in go to Accounts tab and copy your User ID and save it somewhere you do not lose it. If you delete the launcher and redownload it, you will **ONLY** be able to log back in with your User ID and not the license anymore. If you lost access to your account they won't be replaced anymore, as this warning was given.
 
 ## Temp spoofer - Initial Setup
 
