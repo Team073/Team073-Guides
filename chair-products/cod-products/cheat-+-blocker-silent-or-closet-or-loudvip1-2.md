@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# CHEAT + BLOCKER SILENT
+# CHEAT + BLOCKER SILENT|CLOSET|LOUDVIP1-2
 
 {% content-ref url="../../" %}
 [..](../../)
@@ -66,6 +66,10 @@ Why do I BSOD?
 ```
 
 [C++ Redistributables](https://aka.ms/vs/17/release/vc\_redist.x64.exe) - [Directx Runtime](https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe)
+
+
+
+If you are getting a blue text error message try injecting it with a vpn. your ips might be blocking injection. Can also use [https://one.one.one.one/](https://one.one.one.one/)
 
 
 
