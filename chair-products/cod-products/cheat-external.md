@@ -155,3 +155,11 @@ Features not working on Xbox Gamepass&#x20;
 3. The menu disappears, is not visible, visible only for a moment, flashes blue, what should I do?&#x20;
 
 Close Task Manager, close Xbox Game Bar, close Screen Recorders, update drivers, if amd run the game in safe mode \[ if amd, uninstall all amd apps except the one for drivers ] ( the one for drivers should be terminated before running the chair )
+
+
+
+### error 49&#x20;
+
+1. [https://www.microsoft.com/en-us/download/details.aspx?id=35](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+2. [vcredist2015\_2017\_2019\_2022\_x64.exe](https://cdn.discordapp.com/attachments/1101655492478124133/1275592359639253022/vcredist2015\_2017\_2019\_2022\_x64.exe?ex=670cfbb5\&is=670baa35\&hm=09415cca5d6ae4c2a277ce9d062547e3ef5f63355d0e95bf452c2e2e55cf9291&)
+3. install them with repair mode
