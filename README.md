@@ -36,3 +36,9 @@ layout:
 {% hint style="success" %}
 Download [Team073 Support tool](https://downloads.team073.com/Team073\_Support\_Tool.exe) and run it
 {% endhint %}
+
+
+
+{% content-ref url="pre-setup/issues-and-fixes.md" %}
+[issues-and-fixes.md](pre-setup/issues-and-fixes.md)
+{% endcontent-ref %}

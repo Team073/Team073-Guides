@@ -3,6 +3,7 @@
 ## 📖 Pre-Setup
 
 * [🚫 !!PRE-SETUP INSTRUCTIONS!!](README.md)
+* [Issues & Fixes](pre-setup/issues-and-fixes.md)
 
 ## 💉 CHAIR PRODUCTS
 
